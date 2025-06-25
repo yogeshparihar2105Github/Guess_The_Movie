@@ -1,10 +1,13 @@
 import React from "react"
+import Quiz from "./Components/Quiz/Quiz"
 
 function App() {
 
 
   return (
-    <div>Guess the movei</div>
+    <>
+      <Quiz />
+    </>
   )
 }
 
